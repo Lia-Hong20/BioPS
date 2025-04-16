@@ -81,4 +81,5 @@ An example of the Birth-Death process is provided. The input files for this exam
 
 If you find this code useful for your research, please cite it as follows:
 
-XXXXXXX. (2025). XXXXXXXXXXXXXXXXX in Julia. GitHub repository, [https://github.com/ZhangLab/BioPS](https://github.com/ZhangLab/BioPS).
+**BioPS**: A computational framework for simulating biochemical reactions and phase separation. Available at: [https://github.com/Lia416/BioPS](https://github.com/Lia416/BioPS).
+
